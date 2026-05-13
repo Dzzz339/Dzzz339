@@ -1,6 +1,6 @@
 # 💫 About Me:
 Young Full-Stack Developer<br>Only the latest solutions
-
+<img width="480" height="388" alt="Text Brat GIF (1)" src="https://github.com/user-attachments/assets/3d843c80-77bb-4f50-9d69-6b57b0cd90a2" />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/druggy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikita.baldej@gmail.com) 
@@ -14,5 +14,9 @@ Young Full-Stack Developer<br>Only the latest solutions
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<img width="480" height="264" alt="Klauber Looking Up GIF" src="https://github.com/user-attachments/assets/7b11162a-7e12-4ae5-9075-6c4f6de0d161" />
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
