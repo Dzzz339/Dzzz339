@@ -10,8 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dzzz339&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 <img width="480" height="264" alt="Klauber Looking Up GIF" src="https://github.com/user-attachments/assets/7b11162a-7e12-4ae5-9075-6c4f6de0d161" />
 
 
