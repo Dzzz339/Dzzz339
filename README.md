@@ -1,5 +1,5 @@
 # 💫 About Me:
-Young Full-Stack Developer<br>Only the latest solutions
+
 <img width="480" height="388" alt="Text Brat GIF (1)" src="https://github.com/user-attachments/assets/3d843c80-77bb-4f50-9d69-6b57b0cd90a2" />
 
 ## 🌐 Socials:
